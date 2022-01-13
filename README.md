@@ -1,1 +1,1 @@
-Project: Recipese
+Project: Recipes
